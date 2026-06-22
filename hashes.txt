@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos de diamante
+
+This log tracks the cryptographic history and versioning for the song **Ojos de diamante** (ojos-de-diamante).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:37:13.310745 | `v1` | `6669621877f5c24257058e67f6716adcc378d8b052c3c59aa2302ed088a1caa7` | `c13e0fdea10f6eb70489cfae68214c738c36c9b3735f752bcd4af24a3f345c1c` | `2026-06-23_ojos-de-diamante-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
