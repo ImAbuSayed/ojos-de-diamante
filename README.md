@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-diamante/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ojos de diamante](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-diamante/) |
+| **Get License** | [Obtain a Music License for Ojos de diamante](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-diamante/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ojos de diamante, brillan en la noche
+> Tu cuerpo en llamas, me tiene en derroche
+> Bailando lento, sin ningún reproche
+> Eres mi vicio, mi dulce derroche
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
